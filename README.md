@@ -1,4 +1,4 @@
-# training
+# Training - AluraPlus. 
 Projeto desenvolvido pelos cursos da Alura. 
 
 Ferramentas Utilizada:
