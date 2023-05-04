@@ -1,11 +1,7 @@
-# Training - AluraPlus. 
-Projeto desenvolvido pelos cursos da Alura. 
+# Hey Guys! 👋
 
-Ferramentas Utilizada:
+This is one of the projects developed in partnership with Alura de platform.
 
- HTML
- CSS
- Flex-box
+Skills used in this project:
 
-# Linkedln: 
-https://www.linkedin.com/in/contatowillalves
+[![My Skills](https://skillicons.dev/icons?i=html,css,vercel)](https://skillicons.dev)
